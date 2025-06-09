@@ -1,0 +1,13 @@
+{
+    "vin": [
+        {
+            "prevout": "dummy_txid:0"
+        }
+    ],
+    "vout": [
+        {
+            "value": 10,
+            "scriptPubKey": "OP_RETURN"
+        }
+    ]
+}
